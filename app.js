@@ -3,8 +3,8 @@ const WHATSAPP_NUMBER = '18137291470'; //+1 813 729 1470
 
 // 2. Your product list
 const products = [
-  { id: 1, name: 'Widget A', price: 25, img: 'images/image18.jpg' },
-  { id: 2, name: 'Gadget B', price: 40, img: 'images/image10.jpg' },
+  { id: 1, name: 'Widget A', price: 25, img: 'images/image17.jpg' },
+  { id: 2, name: 'Gadget B', price: 40, img: 'images/image18.jpg' },
   // …add more items here
 ];
 
